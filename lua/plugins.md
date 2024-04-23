@@ -1,2 +1,1 @@
-### Oil
-[[oil.nvim]](https://github.com/stevearc/oil.nvim)
+[oil.nvim](https://github.com/stevearc/oil.nvim)
