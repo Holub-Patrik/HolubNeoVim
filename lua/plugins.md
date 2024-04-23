@@ -57,4 +57,4 @@
 
 ## Miscellaneous
 
-[LuaLine](https://github.com/stevearc/oil.nvim) - Replacement for netrw. Very based.
+[Oil](https://github.com/stevearc/oil.nvim) - Replacement for netrw. Very based.
