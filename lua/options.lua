@@ -50,4 +50,8 @@ vim.opt.listchars = { tab = '> ', trail = '·', nbsp = '␣' }
 -- Minimal number of screen lines to keep above and below the cursor.
 vim.opt.scrolloff = 10
 
+-- Folding I quess
+-- vim.opt.foldmethod = 'expr'
+-- vim.opt.foldexpr = 'v:lua.vim.treesitter.foldexpr()'
+
 -- vim: ts=2 sts=2 sw=2 et
